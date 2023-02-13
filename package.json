@@ -9,5 +9,6 @@
   "keywords": ["callee", "caller", "getFunctionName", "getCalleeName", "getCallerName"],
   "author": "CowboyJoe",
   "license": "MIT",
-  "repository": { "type": "git", "url": "https://github.com/CowboyJoe997/getFunky" }
+  "repository": { "type": "git", "url": "https://github.com/CowboyJoe997/getFunky" },
+  "engines": { "node": "*" }
 }
