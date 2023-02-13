@@ -1,0 +1,12 @@
+{
+  "name": "getfunky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getFunky.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "CowboyJoe",
+  "license": "MIT"
+}
