@@ -16,7 +16,9 @@ When the function is flattened or optimized away there is no function name. You 
 
 # Installation
 
-`npm install https://github.com/CowboyJoe997/getFunky`
+```console
+npm install https://github.com/CowboyJoe997/getFunky
+```
 
 # Usage
 

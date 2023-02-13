@@ -1,12 +1,13 @@
 {
   "name": "getfunky",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gets the caller's and Callee's functionname in js.",
   "main": "getFunky.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": [],
+  "keywords": ["callee", "caller", "getFunctionName", "getCalleeName", "getCallerName"],
   "author": "CowboyJoe",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/CowboyJoe997/getFunky" }
 }

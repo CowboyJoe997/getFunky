@@ -32,7 +32,7 @@ function getFunctionName(index) {
 
 	index ||= 0;
 
-	let stack = getStack(); // gets placed on the stack
+	let stack = getStack(); // NOTE: gets placed on the stack
 
 	if (stack.length <= index) {
 		throw('Stack does not contain ' + index + ' levels.');
