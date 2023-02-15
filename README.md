@@ -1,4 +1,7 @@
 # getFunky
+
+[![Node.js CI](https://github.com/CowboyJoe997/getFunky/actions/workflows/node.js.yml/badge.svg)](https://github.com/CowboyJoe997/getFunky/actions/workflows/node.js.yml)
+
 Gets the name of the current function in js.
 
 # WARNING
