@@ -30,7 +30,7 @@ function getCallerName() {
 
 function getFunctionName(index) {
 
-	index ||= 0;
+	index = index || 0;
 
 	let stack = getStack(); // NOTE: gets placed on the stack
 
